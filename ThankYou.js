@@ -5,7 +5,7 @@ export default class ThankYou extends Component{
   render(){
     return(
       <View>
-      <Text style ={{color:'blue', marginTop: 200, fontSize:30,textAlign:'center',fontFamily:'cursive',fontStyle:'italic',fontWeight:"bold"}}>Thank You For Voting</Text>
+      <Text style ={{color:'blue', marginTop: 200, fontSize:30,textAlign:'center',fontFamily:'cursive',fontStyle:'italic',fontWeight:"bold"}}>Thank You For Voting sambodhi</Text>
       </View>
     
     );
